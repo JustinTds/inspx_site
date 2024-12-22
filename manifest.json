@@ -1,0 +1,27 @@
+{
+	"name": "INSPX Website",
+	"short_name": "INSPX",
+	"description": "INSPX",
+	"icons": [
+		{
+			"src": "images/manifest/cropped-faviocon_INSPX_logo-1-512x512.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		},
+		{
+			"src": "images/manifest/cropped-faviocon_INSPX_logo-1-270x270.png",
+			"type": "image/png",
+			"sizes": "270x270",
+			"purpose": "any maskable"
+		},
+		{
+			"src": "images/manifest/INSPX_logo_white_text.svg",
+			"type": "image/svg+xml",
+			"sizes": "any"
+		}	
+	],
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "white",
+	"background_color": "white"
+}
